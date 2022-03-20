@@ -1,0 +1,23 @@
+﻿  MainProgram.cpp
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\addfunctional.h(20): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\addfunctional.h(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\addfunctional.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(204): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(206): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(223): warning C4244: =: преобразование "double" в "SHORT", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(243): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(279): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(313): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\paritycheckcode.h(258): warning C4101: position: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\hammingcode.h(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\hammingcode.h(87): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\hammingcode.h(83): warning C4101: randbit2: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\hammingcode.h(13): warning C4101: number: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\hammingcode.h(8): warning C4101: position: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\bergercode.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\bergercode.h(95): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\bergercode.h(37): warning C4101: number: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\bergercode.h(32): warning C4101: position: неиспользованная локальная переменная
+c:\program_project\visualstudioproject\signalen-decodingsystems\signalen-decodingsystems\bergercode.h(28): warning C4715: Convert10to2: значение возвращается не при всех путях выполнения
+  SignalEn-DecodingSystems.vcxproj -> C:\Program_Project\VisualStudioProject\SignalEn-DecodingSystems\Debug\SignalEn-DecodingSystems.exe
